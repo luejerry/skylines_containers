@@ -1,7 +1,7 @@
 Container Assets for Cities Skylines 1.0
 by cyricc
 
-./baked contains the fbx models and png textures. Put these into your skylines Import directory to import into the asset editor.
+./baked contains the fbx models and png textures. Put these into your skylines Import directory to import into the asset editor. See http://www.skylineswiki.com/Asset_Editor#Specifications_for_imported_assets for more information.
 
 ./source contains the blend files and psd textures. These might be more convenient for editing, especially if you would like to look at the uv maps.
 
